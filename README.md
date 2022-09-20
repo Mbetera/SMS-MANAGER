@@ -29,7 +29,10 @@ or
 ```
 $ npm install
 ```
+About
+Find the API Docs for SMS Manager Application Here:
 
+https://sms-manager-hoslack.herokuapp.com/api-docs/#/Messages/post_message
 ## Running the application
 
 ```
